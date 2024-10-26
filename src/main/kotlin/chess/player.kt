@@ -1,10 +1,10 @@
 package src.main.kotlin.chess
 
-import chess.pieces.Piece
+import src.main.kotlin.chess.pieces.Piece
 
-
-class Player(val color: string){
-    private val pieces: MutableList<Piece> = mutableListOf()
+//Player class
+class Player(val color: String){
+    val pieces: MutableList<Piece> = mutableListOf()
 
     fun addPiece(piece: Piece){
         pieces.add(piece)
