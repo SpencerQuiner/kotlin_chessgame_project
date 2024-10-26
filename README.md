@@ -1,32 +1,30 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+The purpose of this project was to familiarize my self with the Kotlin programming language. I have not used Kotlin or Java before so I am unfamiliar
+with the syntax of the programming language. 
 
-{Provide a description of the software that you wrote to demonstrate the Kotlin language.}
+I wrote a simple chess game that runs in the console. 
 
-{Describe your purpose for writing this software.}
+The purpose of writing this project is to learn to write in the Kotlin programming language.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=-Ddoh7pNcOc)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used IntelliJ Idea as the IDE for this project and OpenJDK the open source Java Development Kit.
 
-{Describe the programming language that you used and any libraries.}
+This program was written with Kotlin and used the standard libraries that come with the language. 
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Programiz Kotlin tutorial site](https://www.programiz.com/kotlin-programming)
+- [Kotlin wikipedia](https://en.wikipedia.org/wiki/Kotlin_(programming_language))
+- [stackoverflow](https://stackoverflow.com/)
+- [w3schools Kotlin tutorial](https://www.w3schools.com/kotlin/index.php)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Expand function of the program, so the program checks for check and checkmate.
+- Add a GUI to improve appearance and easy of use
